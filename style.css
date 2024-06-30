@@ -1,0 +1,109 @@
+/* NAVBAR */
+*{color: black;
+font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color:rgb(237, 241, 248);
+}
+span{
+    display: inline-block;
+}
+.span2{
+    float: inline-end;
+}
+td{
+    padding: 5px;
+    color: white;
+}
+nav{
+    padding-left: 100px;
+    padding-right: 50px;
+    
+    background-color:#4867aa;
+    height: 100px;
+}
+img{
+    width: 250px;
+}
+button{
+    background-color:#6180c5 ;
+    color: white;
+    height:30px ;
+}
+    
+    
+    
+    /* WORKING AREA */
+
+    
+
+.span4,.span3,h3,h1{
+    display: inline-block;
+    
+    
+}
+
+h3 {
+    font-size: xx-large;
+    color: black;
+    
+}
+dd{
+    font-size: x-large;
+    
+}
+h5{
+    color: black;
+    font-size: large;
+}
+label,.radio{
+    color: black;
+    font-size: x-small;
+}
+input {
+    height: 20px;
+    
+}
+a{
+    font-size: x-small;
+    text-decoration: none;
+}
+h1{ 
+    font-size: xx-large;
+}
+div{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.span4{
+    float: inline-end;
+}
+.style{
+    border: 1px solid rgb(84, 126, 243);
+    border-radius: 5px;
+    height: 30px;
+    
+}
+.span3{
+    margin-left: 300px;
+    margin-top: 50px; 
+}
+.singup{
+    display: block;
+    height: 45px;
+    width: 50%;
+    border: none;
+    background-color: green;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 5px;
+}
+.last{
+    font-size: medium;
+    color: blue;
+}
+.last2{
+    color: black;
+}
